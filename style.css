@@ -202,3 +202,41 @@ a {
     line-height: 40px;
     color: #00a4ff;
 }
+
+.goods {
+    height: 18px;
+    padding: 21px 0;
+    margin-top: 8px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, .1);
+}
+
+.goods h3 {
+    float: left;
+    margin-left: 34px;
+    font-family: Microsoft YaHei-Bold;
+    font-size: 16px;
+    color: #00a4ff;
+}
+
+.goods ul {
+    float: left;
+}
+
+.goods ul li {
+    float: left;
+}
+
+.goods-list ul li a {
+    margin-left: 32px;
+    padding: 0 35px;
+    border-left: 1px solid #bfbfbf;
+    font-size: 14px;
+    color: #050505;
+}
+
+.goods .mod {
+    float: right;
+    font-size: 14px;
+    color: #00a4ff;
+    margin-right: 26px;
+}
